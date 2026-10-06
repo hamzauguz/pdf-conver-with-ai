@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d8bfcf8a-b692-44a0-8388-3f394f3a6ed8",
+    "createdAt": "2026-10-06T08:13:23.800Z",
+    "fileName": "web-tapu.pdf",
+    "extractedChars": 1594,
+    "summary": "Summary (demo AI response):\n\nThis document contains approximately 209 words.\nKey excerpt: \"Tarih: 2-10-2026-22:52 Kaydı Oluşturan: METİN UĞUZ Tapu Kaydı (Aktif Malikler için Detaylı - ŞBİ var) TAPU KAYIT BİLGİSİ Zemin Tipi: KatIrtifaki Taşınmaz Kimlik No: 92629490 İl/İlçe: İSTANBUL/BEYLİKDÜZÜ Kurum Adı: Beylikdüzü Mahalle/Köy Adı: GÜRPINAR Mevkii: KÖY ALTI Cilt/Sayfa N…\"\n\nOverall, the PDF covers the topics above. Connect an OpenAI or Claude API key to replace this with a real LLM summary."
+  },
+  {
+    "id": "8745e6a3-29d1-4632-b0b7-1171e1bc2f2e",
+    "createdAt": "2026-10-06T08:11:57.815Z",
+    "fileName": "sample.pdf",
+    "extractedChars": 31,
+    "summary": "Summary (demo AI response):\n\nThis document contains approximately 5 words.\nKey excerpt: \"Hello from PDF Summarizer demo.\"\n\nOverall, the PDF covers the topics above. Connect an OpenAI or Claude API key to replace this with a real LLM summary."
+  }
+]
